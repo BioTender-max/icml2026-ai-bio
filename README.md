@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="ICML 2026 AI x Biomedical Papers" width="100%">
+<img src="banner.png" alt="ICML 2026 AI x Biomedical Papers" width="100%">
 
 
 [![Papers](https://img.shields.io/badge/papers-315-22d3ee?style=for-the-badge&logo=arxiv&logoColor=white)](papers.json)
