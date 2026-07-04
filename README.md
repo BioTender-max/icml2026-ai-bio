@@ -1,43 +1,44 @@
 <div align="center">
 
-# 🧬 ICML 2026 · AI × Biomedical Papers
+<img src="banner.svg" alt="ICML 2026 AI x Biomedical Papers" width="100%">
 
-**315 papers** from ICML 2026 at the intersection of **Artificial Intelligence and Biomedicine**
 
 [![Papers](https://img.shields.io/badge/papers-315-22d3ee?style=for-the-badge&logo=arxiv&logoColor=white)](papers.json)
-[![Spotlights](https://img.shields.io/badge/spotlight-27-f59e0b?style=for-the-badge&logo=star&logoColor=white)](#)
-[![Code](https://img.shields.io/badge/with%20code-195-34d399?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Categories](https://img.shields.io/badge/categories-10-818cf8?style=for-the-badge)](#-categories)
+[![Spotlights](https://img.shields.io/badge/spotlight-27-f59e0b?style=for-the-badge&logo=sparkles&logoColor=white)](#)
+[![Code](https://img.shields.io/badge/with%20code-161-34d399?style=for-the-badge&logo=github&logoColor=white)](#)
+[![License](https://img.shields.io/badge/license-CC0-818cf8?style=for-the-badge)](LICENSE)
 
 </div>
 
 ---
 
-## 📊 Statistics
+<div align="center">
 
-| | Count |
+### 🗂️ Browse by Category
+
+<table>
+<tr>
+<td align="center" width="20%"><a href="#🏥-clinical-ai--healthcare"><br><b>🏥</b><br>Clinical AI & Healthcare<br><sub><b>88 papers · ⭐6</b></sub><br><br></a></td><td align="center" width="20%"><a href="#🧠-neuroscience--brain"><br><b>🧠</b><br>Neuroscience & Brain<br><sub><b>53 papers · ⭐6</b></sub><br><br></a></td><td align="center" width="20%"><a href="#🧬-protein-design--structure"><br><b>🧬</b><br>Protein Design & Structure<br><sub><b>47 papers · ⭐7</b></sub><br><br></a></td><td align="center" width="20%"><a href="#💊-drug-discovery--molecular-design"><br><b>💊</b><br>Drug Discovery & Molecular Design<br><sub><b>45 papers · ⭐5</b></sub><br><br></a></td><td align="center" width="20%"><a href="#🔬-genomics--sequence-biology"><br><b>🔬</b><br>Genomics & Sequence Biology<br><sub><b>30 papers · ⭐2</b></sub><br><br></a></td>
+</tr><tr>
+<td align="center" width="20%"><a href="#🩻-medical-imaging"><br><b>🩻</b><br>Medical Imaging<br><sub><b>26 papers</b></sub><br><br></a></td><td align="center" width="20%"><a href="#🔭-single-cell--spatial-omics"><br><b>🔭</b><br>Single-Cell & Spatial Omics<br><sub><b>14 papers</b></sub><br><br></a></td><td align="center" width="20%"><a href="#-structural-biology--md"><br><b>⚗️</b><br>Structural Biology & MD<br><sub><b>9 papers · ⭐1</b></sub><br><br></a></td><td align="center" width="20%"><a href="#-immunology"><br><b>🛡️</b><br>Immunology<br><sub><b>2 papers</b></sub><br><br></a></td><td align="center" width="20%"><a href="#🔴-oncology"><br><b>🔴</b><br>Oncology<br><sub><b>1 papers</b></sub><br><br></a></td>
+</tr><tr>
+</table>
+
+</div>
+
+---
+
+## 📊 Overview
+
+| Metric | Value |
 |:--|:--:|
 | Total papers | **315** |
-| Spotlight papers | **27** (9%) |
-| Papers with code | **195** (62%) |
-| Categories | **10** |
+| Spotlight papers | **27** (8.6%) |
+| Papers with code | **161** (51%) |
+| Conference | **ICML 2026** · Vancouver, Canada |
+| Data format | [`papers.json`](papers.json) |
 
-## 🗂️ Categories
-
-| | Category | Papers | Spotlights | Description |
-|:--:|:--|:--:|:--:|:--|
-| 🏥 | [**Clinical AI & Healthcare**](#🏥-clinical-ai--healthcare) | 88 | ⭐ 6 | Clinical decision support, EHR analysis, medical NLP, and AI-assisted diagnostics. |
-| 🧠 | [**Neuroscience & Brain**](#🧠-neuroscience--brain) | 53 | ⭐ 6 | Neural decoding, brain imaging, BCI, and computational neuroscience. |
-| 🧬 | [**Protein Design & Structure**](#🧬-protein-design--structure) | 47 | ⭐ 7 | Protein structure prediction, binder design, inverse folding, and language models. |
-| 💊 | [**Drug Discovery & Molecular Design**](#💊-drug-discovery--molecular-design) | 45 | ⭐ 5 | Small molecule generation, ADMET prediction, molecular docking, and drug-target interaction. |
-| 🔬 | [**Genomics & Sequence Biology**](#🔬-genomics--sequence-biology) | 30 | ⭐ 2 | DNA/RNA foundation models, variant effect prediction, gene regulation, and genome analysis. |
-| 🩻 | [**Medical Imaging**](#🩻-medical-imaging) | 26 | — | Radiology AI, pathology, segmentation, and imaging foundation models. |
-| 🔭 | [**Single-Cell & Spatial Omics**](#🔭-single-cell--spatial-omics) | 14 | — | scRNA-seq analysis, cell type annotation, spatial transcriptomics, and multi-omics. |
-| ⚗️ | [**Structural Biology & MD Simulation**](#-structural-biology--md-simulation) | 9 | ⭐ 1 | Molecular dynamics, protein-ligand interactions, and structural bioinformatics. |
-| 🛡️ | [**Immunology & Microbiology**](#-immunology--microbiology) | 2 | — | Immune response modeling, antibody design, and microbial genomics. |
-| 🔴 | [**Oncology**](#🔴-oncology) | 1 | — | Cancer genomics, tumor microenvironment, and oncology AI. |
-
-> 🌟 **Spotlight** papers are listed first in each category.
+> 🌟 **Spotlight** papers appear first in each section. Papers with 💻 code links are open-source.
 
 ---
 
@@ -116,8 +117,8 @@ Survival analysis is a cornerstone of clinical research by modeling time-to-even
 
 </details>
 
-<details >
-<summary><b>📄 Accepted Papers (82)</b></summary>
+<details>
+<summary><b>📄 All Papers (82)</b></summary>
 
 #### A Geometric Lens on Physics-Aligned Data Compression
 <sup>Aleix Segui Ugalde, Wesley Armour</sup>
@@ -1100,8 +1101,8 @@ Deep neural networks currently provide the leading quantitative models of neural
 
 </details>
 
-<details >
-<summary><b>📄 Accepted Papers (47)</b></summary>
+<details>
+<summary><b>📄 All Papers (47)</b></summary>
 
 #### A hitchhiker's guide to Poisson gradient estimation
 <sup>Michael Ibrahim, Hanqi Zhao, Eli Zachary Sennesh, Zhi Li</sup>
@@ -1626,7 +1627,7 @@ Understanding and decoding brain activity into visual representations is a funda
 
 ## 🧬 Protein Design & Structure
 
-> Protein structure prediction, binder design, inverse folding, and language models.
+> Protein structure prediction, binder design, inverse folding, and protein language models.
 
 <details open>
 <summary><b>🌟 Spotlight Papers (7)</b></summary>
@@ -1710,8 +1711,8 @@ Agent-centered scientific discovery is turning scientific models into always-on 
 
 </details>
 
-<details >
-<summary><b>📄 Accepted Papers (40)</b></summary>
+<details>
+<summary><b>📄 All Papers (40)</b></summary>
 
 #### BioDynaSpec: Harmonic-Guided Spatio-Spectral Autoregressive Diffusion for Protein Dynamics Generation
 <sup>Mujie Lin, Yutian Liu, Yudi Guo, Yanzhen Hou et al.</sup>
@@ -2221,8 +2222,8 @@ Simulating the long-time evolution of Hamiltonian systems is limited by the smal
 
 </details>
 
-<details >
-<summary><b>📄 Accepted Papers (40)</b></summary>
+<details>
+<summary><b>📄 All Papers (40)</b></summary>
 
 #### $\texttt{FlashSchNet}$: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics
 <sup>Pingzhi Li, Hongxuan Li, Zirui Liu, Xingcheng Lin</sup>
@@ -2699,8 +2700,8 @@ We study offline black-box optimization (BBO), aiming to discover improved desig
 
 </details>
 
-<details >
-<summary><b>📄 Accepted Papers (28)</b></summary>
+<details>
+<summary><b>📄 All Papers (28)</b></summary>
 
 #### Adaptive DNA Sequence Modeling via Synergistic Plasticity Units
 <sup>Binghao Liu, Wenzheng Zhao, Zhijie Zheng, Fei Gu</sup>
@@ -3018,8 +3019,8 @@ Reconstructing dynamical evolution from limited observations is a fundamental ch
 
 > Radiology AI, pathology, segmentation, and imaging foundation models.
 
-<details open>
-<summary><b>📄 Accepted Papers (26)</b></summary>
+<details>
+<summary><b>📄 Papers (26)</b></summary>
 
 #### Are We Overconfident in Models and Results for Semi-Supervised 3D Medical Image Segmentation?
 <sup>Jun Li, Ziwei Qin</sup>
@@ -3313,10 +3314,10 @@ The characterization of histopathology with AI promises to assist clinical decis
 
 ## 🔭 Single-Cell & Spatial Omics
 
-> scRNA-seq analysis, cell type annotation, spatial transcriptomics, and multi-omics.
+> scRNA-seq, cell type annotation, spatial transcriptomics, and multi-omics integration.
 
-<details open>
-<summary><b>📄 Accepted Papers (14)</b></summary>
+<details>
+<summary><b>📄 Papers (14)</b></summary>
 
 #### AutoMat: Physics-Guided Agentic Reasoning for Solving Ill-Posed Inverse Microscopy Problems
 <sup>Yaotian Yang, Yiwen Tang, Yizhe Chen, Xiao Chen et al.</sup>
@@ -3476,7 +3477,7 @@ Single-cell perturbation modeling is fundamental for understanding and predictin
 
 ---
 
-## ⚗️ Structural Biology & MD Simulation
+## ⚗️ Structural Biology & MD
 
 > Molecular dynamics, protein-ligand interactions, and structural bioinformatics.
 
@@ -3496,8 +3497,8 @@ Efficient sampling of molecular systems at thermodynamic equilibrium is a hallma
 
 </details>
 
-<details >
-<summary><b>📄 Accepted Papers (8)</b></summary>
+<details>
+<summary><b>📄 All Papers (8)</b></summary>
 
 #### CARD: Coarse-to-fine Autoregressive Modeling with Radix-based Decomposition for Transferable Free Energy Estimation
 <sup>Ziyang Yu, Yi He, Wenbing Huang, Wen Yan</sup>
@@ -3591,12 +3592,12 @@ Machine learning interatomic potentials (MLIPs) have proven to be wildly useful 
 
 ---
 
-## 🛡️ Immunology & Microbiology
+## 🛡️ Immunology
 
 > Immune response modeling, antibody design, and microbial genomics.
 
-<details open>
-<summary><b>📄 Accepted Papers (2)</b></summary>
+<details>
+<summary><b>📄 Papers (2)</b></summary>
 
 #### Constrained hybrid modelling to predict microbial dynamics and organic matter turnover in soil systems
 <sup>Paul Collart, Juergen Gall, Andrea Schnepf, Holger Pagel</sup>
@@ -3628,8 +3629,8 @@ Modeling recognition between T-cell receptors (TCRs) and peptide-MHC (pMHC) comp
 
 > Cancer genomics, tumor microenvironment, and oncology AI.
 
-<details open>
-<summary><b>📄 Accepted Papers (1)</b></summary>
+<details>
+<summary><b>📄 Papers (1)</b></summary>
 
 #### TwinWeaver: An LLM-Based Foundation Model Framework for Pan-Cancer Digital Twins
 <sup>Nikita Makarov, Maria Bordukova, Lena Voith von Voithenberg, Estrella Pivel-Villanueva et al.</sup>
@@ -3648,20 +3649,20 @@ Precision oncology requires forecasting clinical events and trajectories, yet mo
 
 ## 📦 Machine-Readable Data
 
-[`papers.json`](papers.json) contains all **315 papers** with structured fields:
+[`papers.json`](papers.json) — structured data for all 315 papers:
 
 ```json
 {
   "id":       "JAQ9bm0Rp4",
   "title":    "Chamaileon: Cross-Context Binder Design...",
-  "authors":  ["Hengyuan Cao", "..."],
+  "authors":  ["Hengyuan Cao", "Shizhuo Cheng", "..."],
   "abstract": "...",
   "tags":     ["protein"],
-  "keywords": ["cross-context binder design", "..."],
+  "keywords": ["cross-context binder design", "diffusion model"],
   "spotlight": true,
   "pdf":      "https://openreview.net/pdf/...",
-  "code":     "https://github.com/...",
-  "forum":    "https://openreview.net/forum?id=..."
+  "code":     "https://github.com/caohengyuan/Chamaileon",
+  "forum":    "https://openreview.net/forum?id=JAQ9bm0Rp4"
 }
 ```
 
@@ -3669,6 +3670,6 @@ Precision oncology requires forecasting clinical events and trajectories, yet mo
 
 <div align="center">
 
-*Curated by [BioTender](https://www.biotender.online) · Data sourced from [OpenReview](https://openreview.net)*
+*Curated by [BioTender](https://www.biotender.online) &nbsp;·&nbsp; Data sourced from [OpenReview](https://openreview.net)*
 
 </div>
